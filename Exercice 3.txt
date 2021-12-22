@@ -1,0 +1,61 @@
+III Exercice Github
+
+1. Créez un dossier "Agence Web".
+
+mkdir "Agence Web"
+
+2. Créez un index.html avec du contenu.
+
+Création de index.html
+
+3. Initialisez le dépôt local et faites un commit.
+
+git init
+git add .
+git commit -m "Initialisation Agence Web"
+
+4. Créez un dépôt distant sur Github.
+
+ecoleWeb-GitAndGithub
+
+5. Liez le dépôt distant et le dépôt local.
+
+git remote add origin https://github.com/Zenitude/ecoleWeb-GitAndGithub.git
+
+6. Envoyez le code de votre dépôt local sur votre dépôt distant.
+
+git push -u origin main
+
+7. Créez une branche "Services".
+
+git branch services
+
+8. Ajoutez une page services.html avec du contenu.
+
+Création page services.html
+
+9. Faites un commit de ces changements.
+
+git add .
+
+git commit -m "Ajout page services.html"
+
+10. Envoyez cette branche sur Github.
+
+git push origin services
+
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 32 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 392 bytes | 392.00 KiB/s, done.
+Total 4 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/Zenitude/ecoleWeb-GitAndGithub.git
+   1dfdfb2..1cf7f4f  services -> services
+
+11. Intégrez les changements de cette branche à la branche principale à l'aide d'une "pull request"
+
+Zenitude merged 1 commit into main from services now
+Pull request successfully merged and closed
+You’re all set—the services branch can be safely deleted.
