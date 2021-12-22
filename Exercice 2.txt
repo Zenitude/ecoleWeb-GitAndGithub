@@ -187,11 +187,4 @@ II Exercice Branches et fusion
 	Author: user.name <user.mail>
 	Date : Mon Dec 20 01:21:27 2021 +0100
 	
-	Résolution du conflit
-	
-
-	
-
-	
-
-	
+	Résolution du conflit	
