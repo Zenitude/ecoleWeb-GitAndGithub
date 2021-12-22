@@ -39,4 +39,5 @@
 * Collaborer avec un autre repo grâce à une pull request
   *  Exercice 3
 * Utiliser les "gists"
-* En cours
+* Créer et résoudre une "issue"
+* Avoir un profil Github qui déchire pour booster son image pro
