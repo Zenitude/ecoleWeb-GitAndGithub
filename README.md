@@ -37,4 +37,5 @@
 * Zoom sur git remote et les références
 * Faire une pull request
 * Collaborer avec un autre repo grâce à une pull request
+  *  Exercice 3
 * En cours
