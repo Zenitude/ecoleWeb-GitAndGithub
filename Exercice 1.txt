@@ -29,7 +29,6 @@ I Exercice Commit.
 5. Ajoutez les changements dans la zone de transit
 
     git add index.html
-    ou git add .
 
     git status
 
