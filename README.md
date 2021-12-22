@@ -38,4 +38,5 @@
 * Faire une pull request
 * Collaborer avec un autre repo grâce à une pull request
   *  Exercice 3
+* Utiliser les "gists"
 * En cours
